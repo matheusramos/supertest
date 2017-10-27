@@ -1,5 +1,5 @@
 {
-  "name": "supertest",
+  "name": "ultratest",
   "version": "3.0.0",
   "description": "SuperAgent driven library for testing HTTP servers",
   "main": "index.js",
@@ -35,10 +35,10 @@
     "test",
     "testing"
   ],
-  "author": "TJ Holowaychuk",
+  "author": "Matheus Ramos",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/visionmedia/supertest.git"
+    "url": "https://github.com/matheusramos/ultratest"
   }
 }
